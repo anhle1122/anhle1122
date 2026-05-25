@@ -1,9 +1,7 @@
 ### hey, I'm Anh 👾
 
-CS + Physics student. I build AI systems that work on medical images.  
+CS + Physics recent graduate from CSULB. I build AI systems that work on medical images.  
 Currently doing research at Cedars-Sinai — segmentation for oncology imaging.
-
----
 
 **what I'm working on**
 - 🧠 deep learning for medical image analysis
@@ -20,6 +18,5 @@ Currently doing research at Cedars-Sinai — segmentation for oncology imaging.
 - trilingual: English, Vietnamese, Mandarin
 - always learning something new — currently: whatever I didn't know last week
 
----
 
 📬 anhle5554@gmail.com · [linkedin](https://linkedin.com/in/anh-le-1539981a0)
