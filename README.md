@@ -1,16 +1,25 @@
-## Hi there 👋
+### hey, I'm Anh 👾
 
-<!--
-**anhle1122/anhle1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Physics student. I build AI systems that work on medical images.  
+Currently doing research at Cedars-Sinai — segmentation for oncology imaging.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**what I'm working on**
+- 🧠 deep learning for medical image analysis
+- 🎧 detecting AI-generated audio (voice, music, ambience)
+- 📄 writing up two papers
+
+**outside of code**
+- 🍄 mushroom foraging
+- 🌿 aquascaping (yes, it's an art form)
+- 🔧 building tools for people who can't afford the expensive ones
+
+**a few things about me**
+- NSF PREM Scholar · published in Springer Nature · physics nerd turned ML researcher
+- trilingual: English, Vietnamese, Mandarin
+- always learning something new — currently: whatever I didn't know last week
+
+---
+
+📬 anhle5554@gmail.com · [linkedin](https://linkedin.com/in/anh-le-1539981a0)
