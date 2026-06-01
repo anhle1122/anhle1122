@@ -4,7 +4,7 @@ CS + Physics recent graduate from CSULB. I build AI systems that are reliable an
 Currently doing research at Cedars-Sinai - segmentation for oncology imaging.
 
 **what I'm working on**
-- 🧠 deep learning for medical image analysis
+- 🧠 deep learning for medical image analysis -> Check out here https://github.com/anhle1122/Robust-Cephalometric-Landmark-Dectection
 - 🎧 detecting AI-generated audio (voice, music, ambience)
 - 📄 writing up two papers
 
