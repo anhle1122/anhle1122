@@ -19,6 +19,6 @@ Currently doing research at Cedars-Sinai - segmentation for oncology imaging.
 - always learning something new — currently: whatever I didn't know last week
 
 
-📬 anhle5554@gmail.com · [linkedin](https://linkedin.com/in/anh-le-1539981a0) [AnhLeResume2026.pdf](https://github.com/user-attachments/files/28449677/AnhLeResume2026.pdf)
+📬 anhle5554@gmail.com · [linkedin](https://linkedin.com/in/anh-le-1539981a0) · [AnhLeResume2026.pdf](https://github.com/user-attachments/files/28449677/AnhLeResume2026.pdf)
 
 
