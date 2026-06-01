@@ -1,6 +1,6 @@
 ### hey, I'm Anh 👾
 
-CS + Physics recent graduate from CSULB. I build AI systems that work on medical images.  
+CS + Physics recent graduate from CSULB. I build AI systems that are reliable and accessible.  
 Currently doing research at Cedars-Sinai — segmentation for oncology imaging.
 
 **what I'm working on**
